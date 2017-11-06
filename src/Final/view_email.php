@@ -137,14 +137,6 @@
 							</P>
 							</DIV></li>
 
-							<li><H5 style="cursor: pointer" onclick="toggleBlock(this, 'solution');"> Solution </H5>
-							<DIV id="solution" style="display:none">
-							<P>
-							'update_email.php?new_email=user1@gmail.com&user=user1&Update=Save' is the relative URL and send it as a phishing link to user1 or embed it in a page and make user1 go to that page. If user1 is authenticated, the action would be executed (vice versa for user2). 
-							</P>
-							
-							</DIV></li>
-							
 							</ul>
 							</div>
 						</div>
